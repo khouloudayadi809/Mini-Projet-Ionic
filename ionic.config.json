@@ -1,0 +1,7 @@
+{
+  "name": "GestionPFESEssat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
